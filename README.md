@@ -1,3 +1,3 @@
 # stackedBarOrdered
-R Script for structuring data as a input for ggplot2 in order to generate a stacked bar chart according to order.
-Data is about different level of wheat suitability area (in thousand hectare) for 64 district of Bangladesh. 
+The R Script for structuring data as an input for ggplot2 in order to generate a stacked bar chart according to order.
+The Data is about the different levels of wheat suitability area (in thousand hectares) for 64 districts of Bangladesh.
